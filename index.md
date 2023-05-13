@@ -7,7 +7,7 @@
 ### Graphics Engineer (SDE) [March'23 - Present]
  
 - Writing a Physically Based Renderer to achieve photorealism in the current rendering pipeline.
-- Responisble to optimise the current NeRF based Implicit rendering Implicit pipeline.
+- Responisble to optimise the current NeRF based Implicit rendering pipeline.
 - Implemented different Global Illumination rendering techniques. Eg: Path Tracing. 
 
 ---
@@ -55,6 +55,8 @@ Programming).
 - Worked on core animation graphics features using shaders.
 - Implemented Bloom, Gaussian Blur, Key Frame Animation of models using OpenGL.
 - Implemented JSON Serializer to serialise the models and wrote a parser of the same to deserialize the models.
+
+
 ---
 
 ## Projects
