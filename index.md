@@ -7,7 +7,7 @@
 ### Graphics Engineer (SDE) [March'23 - Present]
  
 - Writing a Physically Based Renderer to achieve photorealism in the current rendering pipeline.
-- Responisble to optimise the current NeRF based Implicit rendering pipeline.
+- Responsible to optimise the current NeRF based Implicit rendering pipeline.
 - Implemented different Global Illumination rendering techniques. Eg: Path Tracing. 
 
 ---
