@@ -10,6 +10,7 @@
 - Responisble to optimise the current NeRF based Implicit rendering Implicit pipeline.
 - Implemented different Global Illumination rendering techniques. Eg: Path Tracing. 
 
+---
 
 ## ShareChat/Moj, Bangalore
 
