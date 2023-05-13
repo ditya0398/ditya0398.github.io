@@ -62,12 +62,13 @@ Programming).
 ## Projects
 
 ### OpenGL
+[![Channel Link](https://img.shields.io/youtube/channel/views/UCHfPa7u8k61CubB1Ersg7bA?style=social)](https://youtu.be/_LWczxsRaWU)
 - Developed 100+ applications using Modern OpenGL on 6 different platforms using their native
 windowing i.e. Windows, Linux, Android, MacOSX, iOS and webGL.
 - Led a team of 12 people and developed an OpenGL Special Effects(Animation) project. YouTube link
 for the OpenGL demo - YouTube Link
 - Developed an animation graphics project using DirectX11 - YouTube Link for the DirectX-11 Demo -
-YouTube Link
+[![Channel Link](https://img.shields.io/youtube/channel/views/UCHfPa7u8k61CubB1Ersg7bA?style=social)](https://youtu.be/86xbbrR7WiY)
 - Implemented Bloom, Gaussian Blur, Perlin Noise, Terrain, Water using FFT, Lights,
 Shadows, Atmospheric Scattering, Grass, Depth of field, HDR and Volumetric
 Rendering using OpenGL.
@@ -79,7 +80,7 @@ Rendering using OpenGL.
 Addition on CUDA. Implemented Graphics examples from the book CUDAByExamples - Jason
 Sanders.
 - Implemented Perlin Noise using CUDA and OpenGL and calculated CPU and GPU Time - YouTube
-Link
+Link - [![Channel Link](https://img.shields.io/youtube/channel/views/UCHfPa7u8k61CubB1Ersg7bA?style=social)](https://youtu.be/KjBicdvrvag)
 - Implemented Mandlebrot Set, Julia Set using CUDA and OpenGL .
 
 
