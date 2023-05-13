@@ -38,7 +38,6 @@ Blinn-Phong, Spot-Light, Gourard.
 - Involved in optimising the Graphics Engine using various optimising techniques.
 - Implemented Volumetric Rendering to render the Point Clouds and implemented Geometry Shader
 instancing.
-- Implemented XRay-Visualizer to render the Volumetric XRay data.
 
 
 ---
