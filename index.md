@@ -1,5 +1,16 @@
 # Portfolio
 ---
+
+
+## Avataar.ai, Bangalore
+
+### Graphics Engineer (SDE) [March'23 - Present]
+ 
+- Writing a Physically Based Renderer to achieve photorealism in the current rendering pipeline.
+- Responisble to optimise the current NeRF based Implicit rendering Implicit pipeline.
+- Implemented different Global Illumination rendering techniques. Eg: Path Tracing. 
+
+
 ## ShareChat/Moj, Bangalore
 
 ### Graphics Engineer (SDE-1) [November'22 - February'23]
@@ -15,8 +26,9 @@ multiple platforms.
 ---
 ## nCircle Tech, Pune
 
-### Graphics Developer [May'22 - October'22]
+### Software Developer [May'22 - October'22]
 
+  ***👾 Orizuru Graphics Engine:*** 
 - Graphics Engine: Implemented a WebGL based IFC Model Graphics Engine used to render complex 3D models
 - Implemented in house different types of procedural lights in native WebGL using shaders(GLSL) - Point,
 Blinn-Phong, Spot-Light, Gourard.
@@ -28,8 +40,11 @@ instancing.
 - Implemented XRay-Visualizer to render the Volumetric XRay data.
 ---
 
-### Driya Interactive [April'20 - April'22]
+### Driya Interactive, Pune
 
+### Graphics Developer [April'20 - April'22]
+
+***👾 Gatuvit:*** 
 - OpenGL: Responsible for developing 2D/3D educational games using OpenGL, Unity and webGL.
 - Developed Graphics Rendering Platform from the scratch for in house suite of educational apps designed to
 help learners connect and communicate with teachers along with reliable resources.
